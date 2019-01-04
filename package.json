@@ -1,0 +1,15 @@
+{
+  "name": "ngx-lang",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leonardo Pineda",
+  "license": "ISC",
+  "dependencies": {
+    "@angular/core": "^7.1.4",
+    "@ionic-native/globalization": "^4.18.0"
+  }
+}
