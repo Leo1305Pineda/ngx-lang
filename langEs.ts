@@ -1,6 +1,10 @@
 import { Injectable } from '@angular/core';
 @Injectable()
 export class LangEs {
+	private url_image_logo = "assets/imgs/logo_safe.png";
+	private url_avatar_default = "assets/imgs/camera.png";//http://169.63.2.153/profiles/usuario.jpg";
+	private url_background_safe = "assets/imgs/fondo_safe.jpg";
+
 getEs(){
   	return {
   		"$new": "Nuevo",
