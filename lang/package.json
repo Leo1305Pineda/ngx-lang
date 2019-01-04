@@ -4,15 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "copy-files": "cp package.json dist && cp README.md dist && cp .gitignore dist",
-    "build": "rm -rf dist && tsc && npm run copy-files",
+    "copy-files": "cp package.json lang && cp README.md lang && cp .gitignore lang",
+    "build": "rm -rf lang && tsc && npm run copy-files",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Leonardo Pineda",
   "license": "ISC",
   "dependencies": {
     "@angular/core": "^7.1.4",
-    "@ionic-native/globalization": "^4.18.0",
     "rxjs": "^6.3.3"
   }
 }
