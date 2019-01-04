@@ -1,9 +1,4 @@
-import { LangEn } from './langEn';
-import { LangEs } from './langEs';
 export declare class LangProvider {
-    private langEn;
-    private langEs;
-    constructor(langEn: LangEn, langEs: LangEs);
     getLang(): {
         "$new": string;
         "$app": string;
@@ -119,9 +114,9 @@ export declare class LangProvider {
         "$incorrect_password_confirmation": string;
         "$incorrect_gender_confirmation": string;
         "$cordova_not_available": string;
-        "$url_image_logo": string;
-        "$url_background_safe": string;
-        "$url_avatar_default": string;
+        "$url_image_logo": any;
+        "$url_background_safe": any;
+        "$url_avatar_default": any;
         "$genders": {
             id: number;
             name: string;
