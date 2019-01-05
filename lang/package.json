@@ -6,7 +6,7 @@
   "scripts": {
     "copy-files": "cp package.json lang && cp README.md lang && cp .gitignore lang",
     "git": "git add lang && git commit -m 'build ngx-lang'",
-    "build": "rm -rf lang && tsc && npm run copy-files && echo $(npm run git) &> /dev/null",
+    "build": "rm -rf lang && tsc && npm run copy-files && if echo $(npm run git) &> /dev/null; then  echo 'si'; fi",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Leonardo Pineda",
