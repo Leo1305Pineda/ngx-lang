@@ -142,5 +142,5 @@ export const es =  {
     "0000017": "Codigo invalido",
     "0000018": "Usuario fue cancelado no possees los permisos necesarios de acceso a tu cuenta facebook.",
     "0000019": "Ya se envio un codigo a tu correo espere 5 mimito",
-	"$res_color":["Rojo", "Azul", "Blanco", "Negro", "Amarillo", "Verde"]
+	"$res_color":["Rojo", "Azul", "Blanco", "Negro", "Amarillo", "Verde", "Rosado", "Morado", "gris"]
 };
