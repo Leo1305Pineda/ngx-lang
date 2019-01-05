@@ -5,11 +5,18 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
     return c > 3 && r && Object.defineProperty(target, key, r), r;
 };
 import { Injectable } from '@angular/core';
+import { en } from './langEn';
 import { es } from './langEs';
 var LangProvider = (function () {
     function LangProvider() {
     }
     LangProvider.prototype.getLang = function () {
+        return es;
+    };
+    LangProvider.prototype.getLangEn = function () {
+        return en;
+    };
+    LangProvider.prototype.getLangEs = function () {
         return es;
     };
     LangProvider = __decorate([

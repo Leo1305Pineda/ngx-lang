@@ -9,4 +9,12 @@ export class LangProvider {
   	return es;
   }
 
+  getLangEn(){
+  	return en;
+  }
+
+  getLangEs(){
+  	return es;
+  }
+
 }
