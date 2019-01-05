@@ -1,0 +1,18 @@
+{
+  "name": "ngx-lang",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "copy-files": "cp package.json lang && cp README.md lang && cp .gitignore lang",
+    "git": "git add lang && git commit -m 'build ngx-lang'",
+    "build": "rm -rf lang && tsc && npm run copy-files && echo $(npm run git) &> /dev/null",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leonardo Pineda",
+  "license": "ISC",
+  "dependencies": {
+    "@angular/core": "^7.1.4",
+    "rxjs": "^6.3.3"
+  }
+}
