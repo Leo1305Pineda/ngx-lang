@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "copy-files": "cp package.json lang && cp README.md lang && cp .gitignore lang",
-    "build": "rm -rf lang && tsc && npm run copy-files",
+    "git": "git add . && git commit -m 'build ngx-lang'",
+    "build": "rm -rf lang && tsc && npm run copy-files && npm run git",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Leonardo Pineda",

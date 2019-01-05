@@ -126,9 +126,24 @@ export declare const en: {
     "$code201": string;
     "$code2011": string;
     "$code422": string;
-    "$codeMsg": {
-        code: string;
-        message: string;
-    }[];
+    "0000001": string;
+    "0000002": string;
+    "0000003": string;
+    "0000004": string;
+    "0000005": string;
+    "0000006": string;
+    "0000007": string;
+    "0000008": string;
+    "0000009": string;
+    "0000010": string;
+    "0000011": string;
+    "0000012": string;
+    "0000013": string;
+    "0000014": string;
+    "0000015": string;
+    "0000016": string;
+    "0000017": string;
+    "0000018": string;
+    "0000019": string;
     "$res_color": string[];
 };

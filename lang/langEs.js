@@ -116,71 +116,32 @@ export var es = {
     "$url_image_logo": "assets/imgs/logo_safe.png",
     "$url_background_safe": "assets/imgs/fondo_safe.jpg",
     "$url_avatar_default": "assets/imgs/camera.png",
-    "$genders": [{ id: 1, name: 'Masculino' }, { id: 2, name: 'Femenino' }],
+    "$genders": [{ id: 1, name: "Masculino" }, { id: 2, name: "Femenino" }],
     "$code400": "La solicitud contiene sintaxis errónea y no debería repetirse",
     "$code401": "El usuario es incorrecto  intentelo nuevamente",
     "$code404": "Recurso no encontrado.",
     "$code201": "Se ha registrado exitosamente.",
     "$code2011": "Se ha actualizado exitosamente.",
     "$code422": "No puede procesar la solicitud.",
-    "$codeMsg": [{
-            code: '0000001',
-            message: "Registro creado exitosamente"
-        }, {
-            code: '0000002',
-            message: "Falta parametros en la petición"
-        }, {
-            code: '0000003',
-            message: "Registro actualizado exitosamente"
-        }, {
-            code: '0000004',
-            message: "Registro eliminado exitosamente"
-        }, {
-            code: '0000005',
-            message: "El correo ya esta registrado en safe."
-        }, {
-            code: '0000006',
-            message: "Intente mas tarde."
-        }, {
-            code: '0000007',
-            message: "Correo o contraseña incorrecta"
-        }, {
-            code: '0000008',
-            message: "Autenticada exitosamente"
-        }, {
-            code: '0000009',
-            message: "Ya existe una cuenta registrada como conductor"
-        }, {
-            code: '0000010',
-            message: "Ya existe una cuenta registrada como pasajero"
-        }, {
-            code: '0000011',
-            message: "El dni ya se encuentra registrado"
-        }, {
-            code: '0000012',
-            message: "La placa del vehiculo ya esta registrada"
-        }, {
-            code: '0000013',
-            message: "El correo no esta registrado en safe."
-        }, {
-            code: '0000014',
-            message: "El codigo de verificacion ya fue enviado a "
-        }, {
-            code: '0000015',
-            message: "El codigo de verificacion no es correcto"
-        }, {
-            code: '0000016',
-            message: "La contraseña fue cambiada exitosamente"
-        }, {
-            code: '0000017',
-            message: "Codigo invalido"
-        }, {
-            code: '0000018',
-            message: "Usuario fue cancelado no possees los permisos necesarios de acceso a tu cuenta facebook."
-        }, {
-            code: '0000019',
-            message: "Ya se envio un codigo a tu correo espere 5 mimito"
-        }],
-    "$res_color": ['Rojo', 'Azul', 'Blanco', 'Negro', 'Amarillo', 'Verde']
+    "0000001": "Registro creado exitosamente",
+    "0000002": "Falta parametros en la petición",
+    "0000003": "Registro actualizado exitosamente",
+    "0000004": "Registro eliminado exitosamente",
+    "0000005": "El correo ya esta registrado en safe.",
+    "0000006": "Intente mas tarde.",
+    "0000007": "Correo o contraseña incorrecta",
+    "0000008": "Autenticada exitosamente",
+    "0000009": "Ya existe una cuenta registrada como conductor",
+    "0000010": "Ya existe una cuenta registrada como pasajero",
+    "0000011": "El dni ya se encuentra registrado",
+    "0000012": "La placa del vehiculo ya esta registrada",
+    "0000013": "El correo no esta registrado en safe.",
+    "0000014": "El codigo de verificacion ya fue enviado a ",
+    "0000015": "El codigo de verificacion no es correcto",
+    "0000016": "La contraseña fue cambiada exitosamente",
+    "0000017": "Codigo invalido",
+    "0000018": "Usuario fue cancelado no possees los permisos necesarios de acceso a tu cuenta facebook.",
+    "0000019": "Ya se envio un codigo a tu correo espere 5 mimito",
+    "$res_color": ["Rojo", "Azul", "Blanco", "Negro", "Amarillo", "Verde"]
 };
 //# sourceMappingURL=langEs.js.map
