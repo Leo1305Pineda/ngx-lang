@@ -138,8 +138,8 @@ export var en = {
     "0000013": "El correo no esta registrado en safe.",
     "0000014": "El codigo de verificacion ya fue enviado a ",
     "0000015": "El codigo de verificacion no es correcto",
-    "0000016": "La contraseña fue cambiada exitosamente",
-    "0000017": "Codigo invalido.",
+    "0000016": "La contraseña fue cambiada exitosamente ",
+    "0000017": "Codigo invalido",
     "0000018": "Usuario fue cancelado no possees los permisos necesarios de acceso a tu cuenta facebook.",
     "0000019": "Ya se envio un codigo a tu correo espere 5 mimito",
     "$res_color": ['red', 'blue']
