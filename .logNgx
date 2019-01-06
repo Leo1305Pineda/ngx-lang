@@ -1,0 +1,1 @@
+[master 2ea98de] build ngx-lang 9 files changed, 1048 insertions(+), 1046 deletions(-) rewrite lang/langEn.d.ts (87%) rewrite lang/langEn.js (89%) rewrite lang/langEn.js.map (98%) rewrite lang/langEs.d.ts (87%) rewrite lang/langEs.js (83%) rewrite lang/langEs.js.map (96%) rewrite lang/langProvider.d.ts (86%)
