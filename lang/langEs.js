@@ -142,6 +142,7 @@ export var es = {
     "0000017": "Codigo invalido",
     "0000018": "Usuario fue cancelado no possees los permisos necesarios de acceso a tu cuenta facebook.",
     "0000019": "Ya se envio un codigo a tu correo espere 5 mimito",
+    "0000020": "Error al realizar la consulta",
     "$ngx_res_color": ["Rojo", "Azul", "Blanco", "Negro", "Amarillo", "Verde", "Rosado", "Morado", "gris"]
 };
 //# sourceMappingURL=langEs.js.map
