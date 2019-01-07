@@ -121,6 +121,10 @@ export declare class LangProvider {
             id: number;
             name: string;
         }[];
+        "$ngx_code_country": {
+            "code": string;
+            "country": string;
+        }[];
         "$ngx_code400": string;
         "$ngx_code401": string;
         "$ngx_code404": string;
@@ -419,6 +423,10 @@ export declare class LangProvider {
         "$ngx_genders": {
             id: number;
             name: string;
+        }[];
+        "$ngx_code_country": {
+            "code": string;
+            "country": string;
         }[];
         "$ngx_code400": string;
         "$ngx_code401": string;
