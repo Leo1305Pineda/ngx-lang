@@ -114,7 +114,7 @@ export var es = {
     "$ngx_incorrect_gender_confirmation": "Seleccione un genero",
     "$ngx_cordova_not_available": "La plataforma no esta disponible por favor ejecutar en otra plataforma",
     "$ngx_url_image_logo": "assets/imgs/logo_safe.png",
-    "$ngx_url_background_safe": "assets/imgs/fondo_safe.jpg",
+    "$ngx_url_background_safe": "assets/imgs/fondo_safe.png",
     "$ngx_url_avatar_default": "assets/imgs/camera.png",
     "$ngx_genders": [{ id: 1, name: "Masculino" }, { id: 2, name: "Femenino" }],
     "$ngx_code400": "La solicitud contiene sintaxis errónea y no debería repetirse",
