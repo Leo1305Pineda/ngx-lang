@@ -108,7 +108,7 @@ export var es = {
     "$ngx_enter_valid_name": "* Solo dos nombre y no contener caracteres especiales.",
     "$ngx_enter_valid_lastname": "* Solo dos apellidos y no contener caracteres especiales.",
     "$ngx_enter_valid_phone": "* requerido formato internacional +51 00000000",
-    "$ngx_enter_valid_dni": "* se requiere un formato 00000000-0",
+    "$ngx_enter_valid_dni": "* este campo es requerido",
     "$ngx_password_more_6_characters": "Su contraseña debe tener más de 6 caracteres.",
     "$ngx_incorrect_password_confirmation": "Confirmación de contraseña incorrecta",
     "$ngx_incorrect_gender_confirmation": "Seleccione un genero",
