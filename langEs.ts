@@ -107,7 +107,7 @@ export const es =  {
 	"$ngx_enter_valid_email": "* Ingrese un correo electrónico válido",
 	"$ngx_enter_valid_name": "* Solo nombres sin caracteres especiales.",
 	"$ngx_enter_valid_lastname": "* Solo apellidos sin caracteres especiales.",
-	"$ngx_enter_valid_phone": "* Solo numeros",
+	"$ngx_enter_valid_phone": "* Mas de 6 digitos.",
 	"$ngx_enter_valid_dni": "* Solo numero",
 	"$ngx_password_more_6_characters": "Su contraseña debe tener más de 6 caracteres.",
 	"$ngx_incorrect_password_confirmation": "Confirmación de contraseña incorrecta",
