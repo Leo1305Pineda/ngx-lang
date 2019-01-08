@@ -113,6 +113,7 @@ export declare class LangProvider {
         "$ngx_password_more_6_characters": string;
         "$ngx_incorrect_password_confirmation": string;
         "$ngx_incorrect_gender_confirmation": string;
+        "$ngx_incorrect_country_confirmation": string;
         "$ngx_cordova_not_available": string;
         "$ngx_url_image_logo": string;
         "$ngx_url_background_safe": string;
@@ -418,6 +419,7 @@ export declare class LangProvider {
         "$ngx_password_more_6_characters": string;
         "$ngx_incorrect_password_confirmation": string;
         "$ngx_incorrect_gender_confirmation": string;
+        "$ngx_incorrect_country_confirmation": string;
         "$ngx_cordova_not_available": string;
         "$ngx_url_image_logo": string;
         "$ngx_url_background_safe": string;
