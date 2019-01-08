@@ -113,6 +113,7 @@ export declare class LangProvider {
         "$ngx_password_more_6_characters": string;
         "$ngx_incorrect_password_confirmation": string;
         "$ngx_incorrect_gender_confirmation": string;
+        "$ngx_incorrect_country_confirmation": string;
         "$ngx_cordova_not_available": string;
         "$ngx_url_image_logo": string;
         "$ngx_url_background_safe": string;
@@ -121,6 +122,12 @@ export declare class LangProvider {
             id: number;
             name: string;
         }[];
+        "$ngx_code_country": {
+            "code": string;
+            "country": string;
+        }[];
+        "$ngx_code": string;
+        "$ngx_country": string;
         "$ngx_code400": string;
         "$ngx_code401": string;
         "$ngx_code404": string;
@@ -412,6 +419,7 @@ export declare class LangProvider {
         "$ngx_password_more_6_characters": string;
         "$ngx_incorrect_password_confirmation": string;
         "$ngx_incorrect_gender_confirmation": string;
+        "$ngx_incorrect_country_confirmation": string;
         "$ngx_cordova_not_available": string;
         "$ngx_url_image_logo": string;
         "$ngx_url_background_safe": string;
@@ -420,6 +428,12 @@ export declare class LangProvider {
             id: number;
             name: string;
         }[];
+        "$ngx_code_country": {
+            "code": string;
+            "country": string;
+        }[];
+        "$ngx_code": string;
+        "$ngx_country": string;
         "$ngx_code400": string;
         "$ngx_code401": string;
         "$ngx_code404": string;
