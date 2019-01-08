@@ -118,6 +118,8 @@ export const es =  {
 	"$ngx_url_avatar_default": "assets/imgs/camera.png",
 	"$ngx_genders": [{id: 1,name: "Masculino"} , {id: 2,name: "Femenino"}],
 	"$ngx_code_country": [{"code": "+54","country": "Argentina"} , {"code": "+297","country": "Aruba"} , {"code": "+1","country": "Canada"} , {"code": "+56","country": "Chile"} , {"code": "+57","country": "Colombia"} , {"code": "+58","country": "Venezuela"} , {"code": "+506","country": "Costa Rica"} , {"code": "+599","country": "Curacao"} , {"code": "+593","country": "Ecuador"} , {"code": "+34","country": "España"} , {"code": "+502","country": "Guatemala"} , {"code": "+507","country": "Panama"} , {"code": "+51","country": "Peru"} , {"code": "+1","country": "Republica Dominicana"} , {"code": "+46","country": "Suecia"}],
+	"$ngx_code": "Codigo",
+	"$ngx_country": "Pais",
 	"$ngx_code400": "La solicitud contiene sintaxis errónea y no debería repetirse",
 	"$ngx_code401": "El usuario es incorrecto  intentelo nuevamente",
 	"$ngx_code404": "Recurso no encontrado.",
