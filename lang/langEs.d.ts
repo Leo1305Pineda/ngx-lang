@@ -42,6 +42,7 @@ export declare const es: {
     "$ngx_status": string;
     "$ngx_message": string;
     "$ngx_reload": string;
+    "$ngx_user_name": string;
     "$ngx_email": string;
     "$ngx_password": string;
     "$ngx_re_password": string;
@@ -108,6 +109,7 @@ export declare const es: {
     "$ngx_reload_map": string;
     "$ngx_enter_valid_email": string;
     "$ngx_enter_valid_name": string;
+    "$ngx_enter_valid_user_name": string;
     "$ngx_enter_valid_lastname": string;
     "$ngx_enter_valid_phone": string;
     "$ngx_enter_valid_dni": string;
