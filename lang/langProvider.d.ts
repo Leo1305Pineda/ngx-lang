@@ -70,7 +70,7 @@ export declare class LangProvider {
         "$ngx_birthdate": string;
         "$ngx_services": string;
         "$ngx_hola": string;
-        "$ngx_bienvenido": string;
+        "$ngx_welcome": string;
         "$ngx_welcome_to": string;
         "$ngx_total_available": string;
         "$ngx_card_debit": string;
@@ -108,6 +108,7 @@ export declare class LangProvider {
         "$ngx_where_do_you_want_to_go": string;
         "$ngx_change_your_locate": string;
         "$ngx_reload_map": string;
+        "$ngx_enter_valid_email_user_name": string;
         "$ngx_enter_valid_email": string;
         "$ngx_enter_valid_name": string;
         "$ngx_enter_valid_user_name": string;
@@ -126,10 +127,47 @@ export declare class LangProvider {
             id: number;
             name: string;
         }[];
-        "$ngx_code_country": {
+        "$ngx_code_country": ({
             "code": string;
             "country": string;
-        }[];
+            " país "?: undefined;
+            " código "?: undefined;
+            "código"?: undefined;
+            "país"?: undefined;
+            "código "?: undefined;
+        } | {
+            "code": string;
+            " país ": string;
+            "country"?: undefined;
+            " código "?: undefined;
+            "código"?: undefined;
+            "país"?: undefined;
+            "código "?: undefined;
+        } | {
+            " código ": string;
+            " país ": string;
+            "code"?: undefined;
+            "country"?: undefined;
+            "código"?: undefined;
+            "país"?: undefined;
+            "código "?: undefined;
+        } | {
+            "código": string;
+            "país": string;
+            "code"?: undefined;
+            "country"?: undefined;
+            " país "?: undefined;
+            " código "?: undefined;
+            "código "?: undefined;
+        } | {
+            "código ": string;
+            " país ": string;
+            "code"?: undefined;
+            "country"?: undefined;
+            " código "?: undefined;
+            "código"?: undefined;
+            "país"?: undefined;
+        })[];
         "$ngx_code": string;
         "$ngx_country": string;
         "$ngx_code400": string;
@@ -159,6 +197,7 @@ export declare class LangProvider {
         "0000019": string;
         "0000020": string;
         "0000021": string;
+        "0000022": string;
         "$ngx_res_color": string[];
     };
     getLangEn(): {
@@ -381,7 +420,7 @@ export declare class LangProvider {
         "$ngx_birthdate": string;
         "$ngx_services": string;
         "$ngx_hola": string;
-        "$ngx_bienvenido": string;
+        "$ngx_welcome": string;
         "$ngx_welcome_to": string;
         "$ngx_total_available": string;
         "$ngx_card_debit": string;
@@ -419,6 +458,7 @@ export declare class LangProvider {
         "$ngx_where_do_you_want_to_go": string;
         "$ngx_change_your_locate": string;
         "$ngx_reload_map": string;
+        "$ngx_enter_valid_email_user_name": string;
         "$ngx_enter_valid_email": string;
         "$ngx_enter_valid_name": string;
         "$ngx_enter_valid_user_name": string;
@@ -437,10 +477,47 @@ export declare class LangProvider {
             id: number;
             name: string;
         }[];
-        "$ngx_code_country": {
+        "$ngx_code_country": ({
             "code": string;
             "country": string;
-        }[];
+            " país "?: undefined;
+            " código "?: undefined;
+            "código"?: undefined;
+            "país"?: undefined;
+            "código "?: undefined;
+        } | {
+            "code": string;
+            " país ": string;
+            "country"?: undefined;
+            " código "?: undefined;
+            "código"?: undefined;
+            "país"?: undefined;
+            "código "?: undefined;
+        } | {
+            " código ": string;
+            " país ": string;
+            "code"?: undefined;
+            "country"?: undefined;
+            "código"?: undefined;
+            "país"?: undefined;
+            "código "?: undefined;
+        } | {
+            "código": string;
+            "país": string;
+            "code"?: undefined;
+            "country"?: undefined;
+            " país "?: undefined;
+            " código "?: undefined;
+            "código "?: undefined;
+        } | {
+            "código ": string;
+            " país ": string;
+            "code"?: undefined;
+            "country"?: undefined;
+            " código "?: undefined;
+            "código"?: undefined;
+            "país"?: undefined;
+        })[];
         "$ngx_code": string;
         "$ngx_country": string;
         "$ngx_code400": string;
@@ -470,6 +547,7 @@ export declare class LangProvider {
         "0000019": string;
         "0000020": string;
         "0000021": string;
+        "0000022": string;
         "$ngx_res_color": string[];
     };
 }
