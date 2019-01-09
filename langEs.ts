@@ -54,7 +54,7 @@ export const es =  {
 "$ngx_phone": "Teléfono",
 "$ngx_add_phone": "Agregar teléfono",
 "$ngx_user_customer": "Pasajero",
-"$ngx_user_driver": "Driver",
+"$ngx_user_driver": "Conductor",
 "$ngx_lastname": "Apellido",
 "$ngx_gender": "Género",
 "$ngx_tradermark": "Marca",
