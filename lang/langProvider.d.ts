@@ -45,6 +45,7 @@ export declare class LangProvider {
         "$ngx_reload": string;
         "$ngx_user_name": string;
         "$ngx_email": string;
+        "$ngx_email_user_name": string;
         "$ngx_password": string;
         "$ngx_re_password": string;
         "$ngx_enter": string;
@@ -395,6 +396,7 @@ export declare class LangProvider {
         "$ngx_reload": string;
         "$ngx_user_name": string;
         "$ngx_email": string;
+        "$ngx_email_user_name": string;
         "$ngx_password": string;
         "$ngx_re_password": string;
         "$ngx_enter": string;
