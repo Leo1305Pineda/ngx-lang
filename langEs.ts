@@ -151,5 +151,6 @@ export const es =  {
     "0000018": "Usuario fue cancelado no possees los permisos necesarios de acceso a tu cuenta facebook.",
     "0000019": "Ya se envio un codigo a tu correo espere 5 mimito",
     "0000020": "Estas en modo de desarrollo usa usuario de prueba de facebook cierra sesión en tu applicacion de facebook y intenta de nuevo",
+    "0000021": "El nombre de usuario ya esta registrado en safe",
 	"$ngx_res_color":["Rojo", "Azul", "Blanco", "Negro", "Amarillo", "Verde", "Rosado", "Morado", "Gris"]
 };
