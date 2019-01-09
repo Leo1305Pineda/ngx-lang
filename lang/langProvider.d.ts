@@ -158,6 +158,7 @@ export declare class LangProvider {
         "0000018": string;
         "0000019": string;
         "0000020": string;
+        "0000021": string;
         "$ngx_res_color": string[];
     };
     getLangEn(): {
@@ -468,6 +469,7 @@ export declare class LangProvider {
         "0000018": string;
         "0000019": string;
         "0000020": string;
+        "0000021": string;
         "$ngx_res_color": string[];
     };
 }
