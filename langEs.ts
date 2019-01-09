@@ -1,7 +1,7 @@
 export const es =  {
 "$ngx_new": "Nuevo",
-"$ngx_app": "Controlador seguro",
-"$ngx_app_driver": "Controlador seguro",
+"$ngx_app": "Safe",
+"$ngx_app_driver": "Safe",
 "$ngx_dni": "DNI",
 "$ngx_certificate": "Certificado",
 "$ngx_license": "Licencia",
@@ -136,7 +136,7 @@ export const es =  {
 "0000002": "Faltan parámetros en la solicitud",
 "0000003": "Registro actualizado correctamente",
 "0000004": "Registro eliminado exitosamente",
-"0000005": "El correo electrónico ya está registrado en una caja fuerte",
+"0000005": "El correo electrónico ya está registrado en safe",
 "0000006": "Inténtalo más tarde",
 "0000007": "Correo electrónico o contraseña incorrectos",
 "0000008": "Autenticado correctamente",
@@ -144,7 +144,7 @@ export const es =  {
 "0000010": "Ya existe una cuenta registrada como pasajero",
 "0000011": "El IDN ya está registrado",
 "0000012": "La matrícula del vehículo ya está registrada",
-"0000013": "El correo electrónico no está registrado en una caja fuerte",
+"0000013": "El correo electrónico no está registrado en safe",
 "0000014": "El código de verificación ya se ha enviado a",
 "0000015": "El código de verificación no es correcto",
 "0000016": "La contraseña se cambió con éxito",
@@ -152,7 +152,7 @@ export const es =  {
 "0000018": "El usuario fue cancelado y no posee los permisos de acceso necesarios a su cuenta de Facebook",
 "0000019": "Ya envié un código a su correo, espere 5 mimito",
 "0000020": "Estás en modo de desarrollo, usa el usuario de prueba de Facebook para cerrar sesión en tu aplicación de Facebook y vuelve a intentarlo",
-"0000021": "El nombre de usuario ya está registrado en una caja fuerte",
+"0000021": "El nombre de usuario ya está registrado en safe",
 "0000022": "Falló la capa de validación",
 "$ngx_res_color": ["Rojo", "Azul", "Blanco", "Negro", "Amarillo", "Verde", "Rosa", "Púrpura", "Gris"]
 };
