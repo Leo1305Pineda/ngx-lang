@@ -1,6 +1,7 @@
 export declare const es: {
     "$ngx_new": string;
     "$ngx_app": string;
+    "$ngx_app_driver": string;
     "$ngx_dni": string;
     "$ngx_certificate": string;
     "$ngx_license": string;
@@ -9,6 +10,7 @@ export declare const es: {
     "$ngx_year": string;
     "$ngx_image_of": string;
     "$ngx_car": string;
+    "$ngx_register_vehicle": string;
     "$ngx_new_safe": string;
     "$ngx_join_now": string;
     "$ngx_address": string;
