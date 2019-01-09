@@ -1,6 +1,7 @@
 export const es =  {
   	"$ngx_new": "Nuevo",
 	"$ngx_app": "Safe conductor",
+	"$ngx_app_driver":"Safe conductor",
 	"$ngx_dni": "DNI",
 	"$ngx_certificate": "Certificado",
 	"$ngx_license": "Licencia",
@@ -9,6 +10,7 @@ export const es =  {
 	"$ngx_year": "Año",
 	"$ngx_image_of": "Imagen del ",
 	"$ngx_car": "Vehiculo",
+	"$ngx_register_vehicle": "Registro de vehículo",
 	"$ngx_new_safe": "Eres nuevo en safe?",
 	"$ngx_join_now": "Unete Ahora",
 	"$ngx_address": "Dirección de habitación",
@@ -67,7 +69,7 @@ export const es =  {
 	"$ngx_services": "Servicios",
 	"$ngx_hola": "hola",
 	"$ngx_bienvenido": "Bienvenido",
-	"$ngx_welcome_to": "BIENVENIDO A",
+	"$ngx_welcome_to": "Bienvenido a",
 	"$ngx_total_available": "Total disponible",
 	"$ngx_card_debit": "Tarjeta de debito",
 	"$ngx_card_credit": "Tarjeta de credito",
@@ -147,5 +149,5 @@ export const es =  {
     "0000018": "Usuario fue cancelado no possees los permisos necesarios de acceso a tu cuenta facebook.",
     "0000019": "Ya se envio un codigo a tu correo espere 5 mimito",
     "0000020": "Estas en modo de desarrollo usa usuario de prueba de facebook cierra sesión en tu applicacion de facebook y intenta de nuevo",
-	"$ngx_res_color":["Rojo", "Azul", "Blanco", "Negro", "Amarillo", "Verde", "Rosado", "Morado", "gris"]
+	"$ngx_res_color":["Rojo", "Azul", "Blanco", "Negro", "Amarillo", "Verde", "Rosado", "Morado", "Gris"]
 };
