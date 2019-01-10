@@ -25,6 +25,7 @@ export declare class LangProvider {
         "$ngx_error": string;
         "$ngx_alect": string;
         "$ngx_detail": string;
+        "$ngx_data": string;
         "$ngx_data_personal": string;
         "$ngx_notification": string;
         "$ngx_information": string;
@@ -376,6 +377,7 @@ export declare class LangProvider {
         "$ngx_error": string;
         "$ngx_alect": string;
         "$ngx_detail": string;
+        "$ngx_data": string;
         "$ngx_data_personal": string;
         "$ngx_notification": string;
         "$ngx_information": string;
