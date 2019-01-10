@@ -7,9 +7,11 @@ export declare class LangProvider {
         "$ngx_certificate": string;
         "$ngx_license": string;
         "$ngx_the_license": string;
+        "$ngx_of_the": string;
         "$ngx_ok": string;
         "$ngx_year": string;
         "$ngx_image_of": string;
+        "$ngx_image": string;
         "$ngx_car": string;
         "$ngx_register_vehicle": string;
         "$ngx_new_safe": string;
@@ -130,6 +132,8 @@ export declare class LangProvider {
         "$ngx_url_image_logo_header": string;
         "$ngx_url_background_safe": string;
         "$ngx_url_avatar_default": string;
+        "$ngx_not_change": string;
+        "$ngx_is_require_change": string;
         "$ngx_genders": {
             id: number;
             name: string;
@@ -327,9 +331,11 @@ export declare class LangProvider {
         "$ngx_certificate": string;
         "$ngx_license": string;
         "$ngx_the_license": string;
+        "$ngx_of_the": string;
         "$ngx_ok": string;
         "$ngx_year": string;
         "$ngx_image_of": string;
+        "$ngx_image": string;
         "$ngx_car": string;
         "$ngx_register_vehicle": string;
         "$ngx_new_safe": string;
@@ -450,6 +456,8 @@ export declare class LangProvider {
         "$ngx_url_image_logo_header": string;
         "$ngx_url_background_safe": string;
         "$ngx_url_avatar_default": string;
+        "$ngx_not_change": string;
+        "$ngx_is_require_change": string;
         "$ngx_genders": {
             id: number;
             name: string;
