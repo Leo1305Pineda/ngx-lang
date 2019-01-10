@@ -130,47 +130,10 @@ export declare class LangProvider {
             id: number;
             name: string;
         }[];
-        "$ngx_code_country": ({
+        "$ngx_code_country": {
             "code": string;
             "country": string;
-            " país "?: undefined;
-            " código "?: undefined;
-            "código"?: undefined;
-            "país"?: undefined;
-            "código "?: undefined;
-        } | {
-            "code": string;
-            " país ": string;
-            "country"?: undefined;
-            " código "?: undefined;
-            "código"?: undefined;
-            "país"?: undefined;
-            "código "?: undefined;
-        } | {
-            " código ": string;
-            " país ": string;
-            "code"?: undefined;
-            "country"?: undefined;
-            "código"?: undefined;
-            "país"?: undefined;
-            "código "?: undefined;
-        } | {
-            "código": string;
-            "país": string;
-            "code"?: undefined;
-            "country"?: undefined;
-            " país "?: undefined;
-            " código "?: undefined;
-            "código "?: undefined;
-        } | {
-            "código ": string;
-            " país ": string;
-            "code"?: undefined;
-            "country"?: undefined;
-            " código "?: undefined;
-            "código"?: undefined;
-            "país"?: undefined;
-        })[];
+        }[];
         "$ngx_code": string;
         "$ngx_country": string;
         "$ngx_code400": string;
@@ -483,47 +446,10 @@ export declare class LangProvider {
             id: number;
             name: string;
         }[];
-        "$ngx_code_country": ({
+        "$ngx_code_country": {
             "code": string;
             "country": string;
-            " país "?: undefined;
-            " código "?: undefined;
-            "código"?: undefined;
-            "país"?: undefined;
-            "código "?: undefined;
-        } | {
-            "code": string;
-            " país ": string;
-            "country"?: undefined;
-            " código "?: undefined;
-            "código"?: undefined;
-            "país"?: undefined;
-            "código "?: undefined;
-        } | {
-            " código ": string;
-            " país ": string;
-            "code"?: undefined;
-            "country"?: undefined;
-            "código"?: undefined;
-            "país"?: undefined;
-            "código "?: undefined;
-        } | {
-            "código": string;
-            "país": string;
-            "code"?: undefined;
-            "country"?: undefined;
-            " país "?: undefined;
-            " código "?: undefined;
-            "código "?: undefined;
-        } | {
-            "código ": string;
-            " país ": string;
-            "code"?: undefined;
-            "country"?: undefined;
-            " código "?: undefined;
-            "código"?: undefined;
-            "país"?: undefined;
-        })[];
+        }[];
         "$ngx_code": string;
         "$ngx_country": string;
         "$ngx_code400": string;
