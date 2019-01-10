@@ -52,6 +52,7 @@ export var es = {
     "$ngx_check_in": "Registrarse",
     "$ngx_facebook": "Facebook",
     "$ngx_google": "Google",
+    "$ngx_connect_with": "Conectar con ",
     "$ngx_name": "Nombres",
     "$ngx_phone": "Teléfono",
     "$ngx_add_phone": "Agregar teléfono",

@@ -52,6 +52,7 @@ export declare const es: {
     "$ngx_check_in": string;
     "$ngx_facebook": string;
     "$ngx_google": string;
+    "$ngx_connect_with": string;
     "$ngx_name": string;
     "$ngx_phone": string;
     "$ngx_add_phone": string;
