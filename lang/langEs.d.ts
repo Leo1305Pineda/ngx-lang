@@ -84,10 +84,12 @@ export declare const es: {
     "$ngx_menu_wallet": string;
     "$ngx_menu_payment": string;
     "$ngx_menu_panic_button": string;
+    "$ngx_change_teme_map": string;
     "$ngx_menu_map_option": string;
     "$ngx_menu_promotion": string;
     "$ngx_menu_video_surveillance": string;
     "$ngx_logout": string;
+    "$ngx_locate_active": string;
     "$ngx_msg_error_internet": string;
     "$ngx_msg_error_login_facebook": string;
     "$ngx_msg_new_service": string;
