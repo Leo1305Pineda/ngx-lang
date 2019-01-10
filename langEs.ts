@@ -124,6 +124,7 @@ export const es =  {
 "$ngx_incorrect_country_confirmation": "Seleccione uncodede país",
 "$ngx_cordova_not_available": "La plataforma no está disponible, ejecútela en otra plataforma",
 "$ngx_url_image_logo": "assets/imgs/logo_safe.png",
+"$ngx_url_image_logo_header": "assets/imgs/logo_safe_header.png",
 "$ngx_url_background_safe": "assets/imgs/fondo_safe.png",
 "$ngx_url_avatar_default": "assets/imgs/camera.png",
 "$ngx_genders": [{id: 1, name: "Masculino"}, {id: 2, name: "Femenino"}],
