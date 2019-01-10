@@ -74,6 +74,7 @@ export declare const es: {
     "$ngx_hola": string;
     "$ngx_welcome": string;
     "$ngx_welcome_to": string;
+    "$ngx_select_image": string;
     "$ngx_total_available": string;
     "$ngx_card_debit": string;
     "$ngx_card_credit": string;

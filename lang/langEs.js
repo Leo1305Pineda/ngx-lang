@@ -74,6 +74,7 @@ export var es = {
     "$ngx_hola": "hola",
     "$ngx_welcome": "Bienvenido",
     "$ngx_welcome_to": "Bienvenido a",
+    "$ngx_select_image": "Tome una foto oseleccione desde galeria de imagenes",
     "$ngx_total_available": "Total disponible",
     "$ngx_card_debit": "Tarjeta de débito",
     "$ngx_card_credit": "Tarjeta de crédito",
