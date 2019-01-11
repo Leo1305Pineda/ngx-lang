@@ -24,6 +24,7 @@ export declare const es: {
     "$ngx_yes": string;
     "$ngx_not": string;
     "$ngx_error": string;
+    "$ngx_sharing": string;
     "$ngx_alect": string;
     "$ngx_detail": string;
     "$ngx_data": string;
