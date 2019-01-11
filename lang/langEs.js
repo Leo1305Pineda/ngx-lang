@@ -117,6 +117,8 @@ export var es = {
     "$ngx_your_dni": "Tu ID",
     "$ngx_your_gender": "Tu género",
     "$ngx_report": "Reportes",
+    "ngx_payment": "Pagos",
+    "ngx_gain": "Ganancias",
     "$ngx_your_tradermark": "Tu marca",
     "$ngx_your_birthdate": "Tu fecha de nacimiento",
     "$ngx_your_address": "La dirección de su habitación",
