@@ -25,6 +25,12 @@ export declare const es: {
     "$ngx_not": string;
     "$ngx_error": string;
     "$ngx_sharing": string;
+    "$ngx_ratings": string;
+    "$ngx_star": string;
+    "$ngx_user_comment": string;
+    "$ngx_rating_ready": string;
+    "$ngx_trip_accepted": string;
+    "$ngx_trip_cancel": string;
     "$ngx_alect": string;
     "$ngx_detail": string;
     "$ngx_data": string;
