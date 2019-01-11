@@ -117,6 +117,7 @@ export declare class LangProvider {
         "$ngx_your_lastname": string;
         "$ngx_your_dni": string;
         "$ngx_your_gender": string;
+        "$ngx_report": string;
         "$ngx_your_tradermark": string;
         "$ngx_your_birthdate": string;
         "$ngx_your_address": string;
@@ -450,6 +451,7 @@ export declare class LangProvider {
         "$ngx_your_lastname": string;
         "$ngx_your_dni": string;
         "$ngx_your_gender": string;
+        "$ngx_report": string;
         "$ngx_your_tradermark": string;
         "$ngx_your_birthdate": string;
         "$ngx_your_address": string;
