@@ -24,6 +24,7 @@ export const es =  {
 "$ngx_yes": "Sí",
 "$ngx_not": "No",
 "$ngx_error": "Error",
+"$ngx_sharing": "Invitaciones",
 "$ngx_alect": "Alerta",
 "$ngx_detail": "Detalle",
 "$ngx_data": "Datos",
