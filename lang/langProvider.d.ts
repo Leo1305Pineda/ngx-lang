@@ -98,6 +98,7 @@ export declare class LangProvider {
         "$ngx_menu_map_option": string;
         "$ngx_menu_promotion": string;
         "$ngx_menu_video_surveillance": string;
+        "$ngx_menu_notifications": string;
         "$ngx_logout": string;
         "$ngx_locate_active": string;
         "$ngx_msg_error_internet": string;
@@ -137,6 +138,7 @@ export declare class LangProvider {
         "$ngx_cordova_not_available": string;
         "$ngx_url_image_logo": string;
         "$ngx_url_image_logo_header": string;
+        "$ngx_url_image_logo_header_gif": string;
         "$ngx_url_background_safe": string;
         "$ngx_url_avatar_default": string;
         "$ngx_not_change": string;
@@ -429,6 +431,7 @@ export declare class LangProvider {
         "$ngx_menu_map_option": string;
         "$ngx_menu_promotion": string;
         "$ngx_menu_video_surveillance": string;
+        "$ngx_menu_notifications": string;
         "$ngx_logout": string;
         "$ngx_locate_active": string;
         "$ngx_msg_error_internet": string;
@@ -468,6 +471,7 @@ export declare class LangProvider {
         "$ngx_cordova_not_available": string;
         "$ngx_url_image_logo": string;
         "$ngx_url_image_logo_header": string;
+        "$ngx_url_image_logo_header_gif": string;
         "$ngx_url_background_safe": string;
         "$ngx_url_avatar_default": string;
         "$ngx_not_change": string;
