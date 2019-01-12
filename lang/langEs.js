@@ -146,7 +146,7 @@ export var es = {
     "$ngx_url_avatar_default": "assets/imgs/camera.png",
     "$ngx_not_change": "No se ha detectado cambio intente cargar nuevamente.",
     "$ngx_is_require_change": "Se requiere que se cargen la dos imagenes",
-    "$ngx_genders": [{ id: 1, name: "Masculino" }, { id: 2, name: "Femenino" }],
+    "$ngx_genders": [{ id: 1, name: "Masculino" }, { id: 2, name: "Femenino" }, { id: 3, name: "Indistinto" }],
     "$ngx_code_country": [{ "code": "+54", "country": "Argentina" }, { "code": "+297", "country": "Aruba" }, { "code": "+1", "country": "Canadá" }, { "code": "+56", "country": "Chile" }, { "code": "+57 ", "country": "Colombia" }, { "code": "+58", "country": "Venezuela" }, { "code": "+506", "country": "Costa Rica" }, { "code": "+599", "country": "Curazao" }, { "code": "+593", "country": "Ecuador" }, { "code": "+34", "country": "España" }, { "code": "+502", "country": "Guatemala" }, { "code": "+507", "country": "Panamá" }, { "code": "+51", "country": "Perú" }, { "code": "+1", "country": "República Dominicana" }, { "code": "+46", "country": "Suecia" }],
     "$ngx_code": "Código",
     "$ngx_country": "País",
