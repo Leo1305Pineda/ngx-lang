@@ -28,6 +28,7 @@ export declare class LangProvider {
         "$ngx_sharing": string;
         "$ngx_ratings": string;
         "$ngx_star": string;
+        "$ngx_Acept": string;
         "$ngx_user_comment": string;
         "$ngx_rating_ready": string;
         "$ngx_trip_accepted": string;
@@ -364,6 +365,7 @@ export declare class LangProvider {
         "$ngx_sharing": string;
         "$ngx_ratings": string;
         "$ngx_star": string;
+        "$ngx_Acept": string;
         "$ngx_user_comment": string;
         "$ngx_rating_ready": string;
         "$ngx_trip_accepted": string;

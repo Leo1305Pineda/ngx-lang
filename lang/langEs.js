@@ -27,6 +27,7 @@ export var es = {
     "$ngx_sharing": "Invitaciones",
     "$ngx_ratings": "Calificaciones",
     "$ngx_star": "Estrella",
+    "$ngx_Acept": "Aceptar",
     "$ngx_user_comment": "Comentario del usuario",
     "$ngx_rating_ready": "Calificaciones Actual",
     "$ngx_trip_accepted": "Viajes aceptados",
