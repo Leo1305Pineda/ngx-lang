@@ -178,5 +178,6 @@ export const es =  {
 "0000020": "Estás en modo de desarrollo, usa el usuario de prueba de Facebook para cerrar sesión en tu aplicación de Facebook y vuelve a intentarlo",
 "0000021": "El nombre de usuario ya está registrado en safe",
 "0000022": "Falló la capa de validación",
+"0000023": "El nombre ya esta registrado.",
 "$ngx_res_color": ["Rojo", "Azul", "Blanco", "Negro", "Amarillo", "Verde", "Rosa", "Púrpura", "Gris"]
 };
