@@ -14,6 +14,7 @@ export declare const es: {
     "$ngx_car": string;
     "$ngx_register_vehicle": string;
     "$ngx_new_safe": string;
+    "ngx_msg_new_contact": string;
     "$ngx_join_now": string;
     "$ngx_address": string;
     "$ngx_address_help": string;
@@ -118,8 +119,8 @@ export declare const es: {
     "$ngx_your_dni": string;
     "$ngx_your_gender": string;
     "$ngx_report": string;
-    "ngx_payment": string;
-    "ngx_gain": string;
+    "$ngx_payment": string;
+    "$ngx_gain": string;
     "$ngx_your_tradermark": string;
     "$ngx_your_birthdate": string;
     "$ngx_your_address": string;
